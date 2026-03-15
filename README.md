@@ -31,5 +31,5 @@ Full-stack Java application for managing hostel operations.
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/jahid-hasan
-- Email: yourmail@gmail.com
+- LinkedIn: www.linkedin.com/in/jahid-hasan-8a4234292
+- Email: jahid.hasan1217@gmail.com

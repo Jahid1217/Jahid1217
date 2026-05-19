@@ -37,10 +37,13 @@ Software developer from **Dhaka, Bangladesh** passionate about building practica
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 **Frameworks & Libraries**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![DeepFace](https://img.shields.io/badge/DeepFace-FF6F00?style=flat-square&logo=python&logoColor=white)
 
@@ -48,6 +51,7 @@ Software developer from **Dhaka, Bangladesh** passionate about building practica
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Room](https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 **Tools & Platforms**
 
@@ -62,11 +66,12 @@ Software developer from **Dhaka, Bangladesh** passionate about building practica
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [**Face Match**](https://github.com/Jahid1217/Face_Match) | AI-powered face matching system using deep learning and facial recognition | Python · OpenCV · DeepFace |
-| [**CCTV Attendance System**](https://github.com/Jahid1217/attendance_system_Using_cctv) | Automated smart attendance tracking via real-time computer vision | Python · OpenCV |
-| [**Hostel Management System**](https://github.com/Jahid1217/Hostel-management-system-Java) | Full-featured hostel operations management application | Java |
-| [**Railway Application**](https://github.com/Jahid1217/Railway-Applications) | Railway booking and management system with end-to-end flow | C# |
-| [**Car Rental Website**](https://github.com/Jahid1217/Car-Rental-Website) | Web-based vehicle rental platform | PHP |
-| [**Art Exhibition**](https://github.com/Jahid1217/Art-Exhibition-Java) | Exhibition and gallery management system | Java |
+| [**GoalFlow**](https://github.com/Jahid1217/Mobile_Appreciate-__Target-) | Modern Android goal‑tracking app with Jetpack Compose and local data storage | Kotlin · Jetpack Compose · Room |
+| [**CCTV Attendance System**](https://github.com/Jahid1217/attendance_system_Using_cctv) | Automated smart attendance tracking via real‑time computer vision | Python · OpenCV |
+| [**Selenium Test Suite**](https://github.com/Jahid1217/Selenium-automaton-testing-) | Automated beneficiary validation suite for social safety net systems | Python · Selenium · pytest |
+| [**Railway Application**](https://github.com/Jahid1217/Railway-Applications) | Railway booking and management system with end‑to‑end flow | C# |
+| [**Hostel Management System**](https://github.com/Jahid1217/Hostel-management-system-Java) | Full‑featured hostel operations management application | Java |
+| [**Car Rental Website**](https://github.com/Jahid1217/Car-Rental-Website) | Web‑based vehicle rental platform | PHP |
 
 ---
 

@@ -78,9 +78,9 @@ Software developer from **Dhaka, Bangladesh** passionate about building practica
 ## GitHub Stats
 
 <div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Jahid1217&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=86400" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Jahid1217&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahid1217&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahid1217&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 <br/>
 

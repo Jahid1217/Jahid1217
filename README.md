@@ -243,7 +243,7 @@ Dhaka, Bangladesh
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Jahid1217&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=1&amp;column=7" alt="GitHub Trophies"/>
+<img width="100%" src="https://github-profile-trophy-fork-two.vercel.app/?username=Jahid1217&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=1&amp;column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -292,13 +292,38 @@ graph LR
 
 # 🧠 Development Interests
 
-| ⚙️ Backend Engineering | 🤖 Artificial Intelligence | 🧪 Quality Engineering |
-| :--------------------- | :------------------------- | :--------------------- |
-| ☕ Java                 | 🤖 Machine Learning        | 🧪 Automation Testing  |
-| 🍃 Spring Boot         | 👁️ Computer Vision        | 🌐 Selenium            |
-| 🔗 REST APIs           | 🐍 Python                  | ✅ UAT                  |
-| 🗄️ Database Design    | 🎯 YOLO                    | 🔄 Regression Testing  |
-| 🐳 Docker              | 🧠 Deep Learning           | 📋 Test Documentation  |
+<table width="100%">
+  <tr>
+    <th width="33%" align="center">⚙️ Backend Engineering</th>
+    <th width="34%" align="center">🤖 Artificial Intelligence</th>
+    <th width="33%" align="center">🧪 Quality Engineering</th>
+  </tr>
+  <tr>
+    <td align="center">☕ Java</td>
+    <td align="center">🤖 Machine Learning</td>
+    <td align="center">🧪 Automation Testing</td>
+  </tr>
+  <tr>
+    <td align="center">🍃 Spring Boot</td>
+    <td align="center">👁️ Computer Vision</td>
+    <td align="center">🌐 Selenium</td>
+  </tr>
+  <tr>
+    <td align="center">🔗 REST APIs</td>
+    <td align="center">🐍 Python</td>
+    <td align="center">✅ UAT</td>
+  </tr>
+  <tr>
+    <td align="center">🗄️ Database Design</td>
+    <td align="center">🎯 YOLO</td>
+    <td align="center">🔄 Regression Testing</td>
+  </tr>
+  <tr>
+    <td align="center">🐳 Docker</td>
+    <td align="center">🧠 Deep Learning</td>
+    <td align="center">📋 Test Documentation</td>
+  </tr>
+</table>
 
 ---
 

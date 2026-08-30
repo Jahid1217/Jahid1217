@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7aa2f7?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://jahid1217.github.io/resume/view/index.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7aa2f7?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://md-jahid-hasan.vercel.app/view/index.html)
 [![GitHub](https://img.shields.io/badge/GitHub-Jahid1217-24283b?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Jahid1217)
 
 </div>
@@ -327,7 +327,7 @@ I'm always interested in discussing:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7AA2F7?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://jahid1217.github.io/resume/view/index.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7AA2F7?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://md-jahid-hasan.vercel.app/view/index.html)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Jahid1217)
 
 </div>

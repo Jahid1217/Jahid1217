@@ -292,7 +292,7 @@ graph LR
 
 # 🧠 Development Interests
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <th width="33%" align="center">⚙️ Backend Engineering</th>
     <th width="34%" align="center">🤖 Artificial Intelligence</th>

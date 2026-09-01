@@ -334,9 +334,7 @@ graph LR
 <img width="80%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="Random Developer Quote"/>
 
 </div>
-
 ---
-
 # 🤝 Let's Connect
 
 I'm always interested in discussing:
